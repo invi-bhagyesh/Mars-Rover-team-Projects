@@ -1,3 +1,3 @@
 ****MRM ML Projects Repository (Basics)****
 
-Welcome to the MRM ML Projects repository! This repository houses a collection of **machine learning** projects developed as part of my work at Mars Rover Manipal (MRM) and beyond.
+Things i did during the learning phase after joining Mars Rover team at my uni. Mostly implementing models and learning how to actually read a research paper.
